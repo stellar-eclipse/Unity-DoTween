@@ -1,0 +1,17 @@
+{  
+  "name": "dotween",
+  "displayName": "Dotween",
+  "description": "",
+  "version": "1.0.375",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Examples",
+      "description": "",
+      "path": "Samples~/Examples"
+    }
+  ]
+}
